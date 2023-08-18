@@ -29,7 +29,7 @@ Make sure you have Python installed on your system. You can download it from the
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/personal-task-manager.git
+   git clone https://github.com/kartikaysingh69/CODSOFT_task1_To-dolist.git
    cd personal-task-manager
 
 1. Run the application:
@@ -37,7 +37,7 @@ Make sure you have Python installed on your system. You can download it from the
 python main.py
 
 ### Usage
-1. Launch the application by running the main.py script.
+1. Launch the application by running the **main.py** script.
 2. Use the buttons to interact with the application:
 - Add New Task: Click to add a new task to your list.
 - Update Status: Select a task from the list, update its status (done or not done).
