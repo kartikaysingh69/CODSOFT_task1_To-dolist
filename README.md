@@ -21,11 +21,14 @@ Personal Task Manager is a simple To-Do List application built using Python and 
 
 ## Getting Started
 
+
 ### Prerequisites
+
 
 Make sure you have Python installed on your system. You can download it from the official website: [Python Downloads](https://www.python.org/downloads/)
 
 ### Installation
+
 
 1. Clone the repository:
    ```sh
@@ -37,13 +40,18 @@ Make sure you have Python installed on your system. You can download it from the
 python main.py
 
 ### Usage
+
+
 1. Launch the application by running the **main.py** script.
 2. Use the buttons to interact with the application:
 - Add New Task: Click to add a new task to your list.
 - Update Status: Select a task from the list, update its status (done or not done).
 - Show All Tasks: Display all tasks and their status.
 - Exit: Close the application.
+  
 ### Contributing
+
+
 Contributions are welcome! If you'd like to improve the application, fix bugs, or add new features, feel free to submit a pull request. Please make sure to follow the code of conduct.
 
 1. Fork the repository.
@@ -53,4 +61,10 @@ Contributions are welcome! If you'd like to improve the application, fix bugs, o
 5. Open a pull request.
    
 ### License
+
+
 This project is licensed under the MIT License.
+
+## Contact
+
+If you have any questions, suggestions, or feedback, you can contact the project owner at kartikaysingh929@gmail.com.
