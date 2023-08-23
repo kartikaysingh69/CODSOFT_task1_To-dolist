@@ -1,70 +1,51 @@
-# Personal Task Manager
+# To-Do List Application
 
-Personal Task Manager is a simple To-Do List application built using Python and the Tkinter library. This application allows you to manage your tasks by adding new tasks, marking tasks as done or not done, and viewing your task list.
-
-## Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+Welcome to the To-Do List Application GitHub repository! This repository contains a simple Python application built using the Tkinter library. The application allows you to manage tasks, mark them as done or not done, and view lists of all tasks and completed tasks.
 
 ## Features
 
-- Add new tasks to your task list.
-- Mark tasks as done or not done.
-- View all tasks along with their status.
-- Display a list of completed tasks.
+- **Task Management:** Add new tasks to the list.
+- **Status Update:** Mark tasks as done or not done.
+- **Task Lists:** View lists of all tasks and completed tasks.
+- **User-Friendly Interface:** The graphical user interface is intuitive and easy to navigate.
 
-## Getting Started
+## How to Use
 
+1. Clone the repository to your local machine using the following command:
 
-### Prerequisites
+* git clone https://github.com/your-username/todo-list-app.git
 
+2. Navigate to the repository's directory:
 
-Make sure you have Python installed on your system. You can download it from the official website: [Python Downloads](https://www.python.org/downloads/)
+* cd todo-list-app
 
-### Installation
+3. Run the To-Do List application:
 
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/kartikaysingh69/CODSOFT_task1_To-dolist.git
-   cd personal-task-manager
-
-1. Run the application:
-   
-python main.py
-
-### Usage
+* python todo_app.py
 
 
-1. Launch the application by running the **main.py** script.
-2. Use the buttons to interact with the application:
-- Add New Task: Click to add a new task to your list.
-- Update Status: Select a task from the list, update its status (done or not done).
-- Show All Tasks: Display all tasks and their status.
-- Exit: Close the application.
-  
-### Contributing
+4. The application window will open, displaying your tasks and options to manage them.
 
+5. Click the "Add New Task" button to add tasks to the list.
+6. Use the "Update Status" button to mark tasks as done or not done.
+7. Click "Show All Tasks" to view lists of all tasks and completed tasks.
+8. To exit the application, click the "Exit" button.
 
-Contributions are welcome! If you'd like to improve the application, fix bugs, or add new features, feel free to submit a pull request. Please make sure to follow the code of conduct.
+## Contributing
 
-1. Fork the repository.
-2. Create your feature branch: git checkout -b feature/new-feature
-3. Commit your changes: git commit -m 'Add some feature'
-4. Push to the branch: git push origin feature/new-feature
-5. Open a pull request.
-   
-### License
+Contributions are welcome! If you have ideas for improving the To-Do List application or want to add new features, feel free to open an issue or submit a pull request. Please adhere to the project's [Code of Conduct](CODE_OF_CONDUCT.md) during discussions and contributions.
 
+## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE), allowing you to freely use, modify, and distribute the code. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, you can contact the project owner at kartikaysingh929@gmail.com.
+If you have any questions, suggestions, or feedback, you can contact the project owner at kartikaysingh929@@gmail.com.
+
+Stay organized with the To-Do List Application!
+
+
+
+
+
