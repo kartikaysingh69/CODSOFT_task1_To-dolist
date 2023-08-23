@@ -13,7 +13,7 @@ Welcome to the To-Do List Application GitHub repository! This repository contain
 
 1. Clone the repository to your local machine using the following command:
 
-* git clone https://github.com/your-username/todo-list-app.git
+* git clone https://github.com/kartikaysingh69/CODSOFT_task1_To-dolist.git
 
 2. Navigate to the repository's directory:
 
@@ -43,7 +43,7 @@ This project is licensed under the [MIT License](LICENSE), allowing you to freel
 
 If you have any questions, suggestions, or feedback, you can contact the project owner at kartikaysingh929@@gmail.com.
 
-Stay organized with the To-Do List Application!
+**Stay organized with the To-Do List Application!**
 
 
 
