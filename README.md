@@ -35,10 +35,6 @@ Welcome to the To-Do List Application GitHub repository! This repository contain
 
 Contributions are welcome! If you have ideas for improving the To-Do List application or want to add new features, feel free to open an issue or submit a pull request. Please adhere to the project's [Code of Conduct](CODE_OF_CONDUCT.md) during discussions and contributions.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE), allowing you to freely use, modify, and distribute the code. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
 If you have any questions, suggestions, or feedback, you can contact the project owner at kartikaysingh929@@gmail.com.
